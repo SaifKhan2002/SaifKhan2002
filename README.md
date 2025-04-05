@@ -89,7 +89,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saif khan" target="_blank">
+  <a href="https://linkedin.com/in/saif-khan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:msaifkhan587@gmail.com">

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Laravel+Backend+Developer;AI+Engineer+in+Progress;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines=Laravel+Backend+Developer;AI+Engineer+in+Progress;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Hi 👋, I'm Muhammad Saif Khan</h3>

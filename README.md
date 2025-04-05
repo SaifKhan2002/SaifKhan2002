@@ -72,9 +72,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saifkhan2002/saifkhan2002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/M4sK/M4sK/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -117,3 +115,8 @@
 > ⚡ *Crafting backend logic like magic and dreaming in AI pipelines — stay tuned for more innovations!*
 
 ---
+
+
+
+
+

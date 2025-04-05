@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaifKhan2002/M4sK/main/Blue Navy and Orange Geometric Technology LinkedIn Banner.png" alt="GitHub Banner" style="width:100%; max-width:1000px;" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines=Laravel+Backend+Developer;AI+Engineer+in+Progress;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />

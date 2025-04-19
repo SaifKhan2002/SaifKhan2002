@@ -19,8 +19,6 @@
 
 - 🛠 Laravel Backend Developer with **1 year of experience**
 - 🎨 UI/UX Designer with **1 year of experience**
-- 🧠 Learning **AI Models**, **Generative AI**, and **Voice AI Agents**
-- 🔭 Working on my **FYP Project (TECHVETT)** – Laravel + AI integrated recruitment automation
 - 👨‍💻 Past experience with frontend: React, Vue, GSAP, Three.js
 - 📬 Reach me at: **[msaifkhan587@gmail.com](mailto:msaifkhan587@gmail.com)**
 - 🎯 Goal: Become a **Top 1% Backend + AI Developer** by 2025

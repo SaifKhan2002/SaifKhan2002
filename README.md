@@ -275,17 +275,14 @@ const dailyRoutine = {
 
 ---
 
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifkhan2002&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saifkhan2002&theme=algolia&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saifkhan2002&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=93c5fd&layout=compact" alt="Wakatime Stats" />
-</div>
 
----
+  ---
 
 ## 🌐 Connect With Me
 
